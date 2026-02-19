@@ -1,0 +1,8 @@
+[package]
+name = "substrate_runtime"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+substrate_core = { path = "../substrate_core" }
+anyhow = "1"
