@@ -1,9 +1,0 @@
-[workspace]
-resolver = "2"
-members = [
-    "crates/substrate_core",
-    "crates/substrate_graph",
-    "crates/substrate_ledger",
-    "crates/substrate_runtime",
-    "crates/substrate_cli",
-]
